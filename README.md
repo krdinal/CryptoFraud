@@ -12,5 +12,5 @@ The Krdinal CryptoFraud is generated using an AI classification engine. This fee
 Released under MIT License.
 
 
-<b>Keywords</b>
+<b>Keywords</b>  
 altcoin, bank, blockchain, cryptocurrency, dao, defi, nft, web3
